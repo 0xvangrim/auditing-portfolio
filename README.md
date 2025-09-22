@@ -5,23 +5,21 @@ This portfolio showcases the audit work of **0xvangrim**, including public conte
 
 ---
 
-## 🧑‍💻 About Us
+## 🧑‍💻 About
 
-We are a team of security researchers participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), while also conducting private audits under the **Midgar** banner.
+**0xvangrim** is a security researcher participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), while also conducting private audits under the **Midgar** banner.
 
-- Twitter (Midgar): [@midgarxyz](https://x.com/midgarxyz)  
-- Twitter (0xVangrim): [@0xvangrim_](https://x.com/0xvangrim_) 
-- Twitter (EVDoc): [@AboutikaR](https://x.com/AboutikaR)  
+- X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)  
 
-Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
+Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
 ---
 
 ## 📊 Audit Overview
 
-**Total audits**: 30+  
-**Severities**: 14+ Critical • 40+ High • 70+ Medium • 50+ Low/QA  
-**Best placement**: 1st place • **Top-10 finishes**: 8 (shown in highlights)  
+**Total audits**: 24  
+**Severities**: 14 Critical • 30+ High • 60+ Medium • 50+ Low/QA  
+**Best placement**: 1st place • **Top-10 finishes**: 5 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino
 
@@ -35,10 +33,7 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Gauntlet / aera-v3 | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Sparkn | <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" width="16"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
 | Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock" width="16"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
-| Telecoin Network | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 9/687 | L1 | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Basin | <img src="https://code4rena.com/images/c4-logo-icon.svg" alt="C4" width="16"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
-| Mezo | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/475 | Stablecoin | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
-| Silo v2 | <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="16"/> Cantina | 10/416 | Lending | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
 ---
 
@@ -70,13 +65,8 @@ Interested in working together? DM us [@midgarxyz](https://x.com/midgarxyz).
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
 | Pike Finance | Lending / Stablecoin | — | 1 | — | [Report](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
-| Telcoin Network | L1 | 2 | 2 | — | [Report](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard) |
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
-| Ammalgam | Lending Exchange  | - | 1 | — | [Report](https://cantina.xyz/code/02c29467-cb27-4beb-b2ef-500ad95e1a51/overview/leaderboard) |
-| Jigsaw | Stablecoin | 3 | 3 | 1 | [Report](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
-| Mezo | Stablecoin | — | 3 | — | [Report](https://cantina.xyz/competitions/e757364c-1f68-4ec5-94f6-c6b3c2e80c6d) |
-| Silo v2 | Lending | — | 1 | — | [Report](https://cantina.xyz/code/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/overview/leaderboard) |
 
 ### <img src="https://codehawks.cyfrin.io/favicon.ico" alt="CodeHawks" width="16"/> CodeHawks
 
