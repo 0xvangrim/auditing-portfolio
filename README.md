@@ -35,13 +35,13 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
 | Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
-| Basin | <img src="favicons/code4rena.svg" alt="C4"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
+| Basin | <img src="favicons/code4rena.png" alt="C4"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
 
 ---
 
 ## 🏆 Competitive Platforms
 
-### <img src="favicons/code4rena.svg" alt="Code4rena"/> Code4rena
+### <img src="favicons/code4rena.png" alt="Code4rena"/> Code4rena
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
