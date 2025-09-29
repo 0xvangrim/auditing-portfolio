@@ -31,17 +31,17 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
 | Contest | Platform | Rank | About | Report |
 |---------|----------|------|-------|--------|
-| RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock" class="platform-logo"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
-| Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina" class="platform-logo"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
-| Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks" class="platform-logo"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
-| Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock" class="platform-logo"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
-| Basin | <img src="favicons/code4rena.svg" alt="C4" class="platform-logo"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
+| RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock" style="width:16px;height:16px"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
+| Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina" style="width:16px;height:16px"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
+| Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks" style="width:16px;height:16px"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
+| Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock" style="width:16px;height:16px"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
+| Basin | <img src="favicons/code4rena.svg" alt="C4" style="width:16px;height:16px"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
 
 ---
 
 ## 🏆 Competitive Platforms
 
-### <img src="favicons/code4rena.svg" alt="Code4rena" class="platform-logo"/> Code4rena
+### <img src="favicons/code4rena.svg" alt="Code4rena" style="width:16px;height:16px"/> Code4rena
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -53,7 +53,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | 2023-08-chainlink-staking-v02 | Staking | — | 1 | — | [Report](https://code4rena.com/audits/2023-08-chainlink-staking-v02) |
 | 2023-07-basin | DEX | — | 1 | — | [Report](https://code4rena.com/reports/2023-07-basin) |
 
-### <img src="favicons/sherlock.ico" alt="Sherlock" class="platform-logo"/> Sherlock
+### <img src="favicons/sherlock.ico" alt="Sherlock" style="width:16px;height:16px"/> Sherlock
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -62,7 +62,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Allo V2 | Grants | — | 2 | — | [Report](https://audits.sherlock.xyz/contests/109/report) |
 | Burve | AMM | 1 | — | — | [Report](https://audits.sherlock.xyz/contests/858/report) |
 
-### <img src="favicons/cantina.ico" alt="Cantina" class="platform-logo"/> Cantina
+### <img src="favicons/cantina.ico" alt="Cantina" style="width:16px;height:16px"/> Cantina
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -70,7 +70,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
 
-### <img src="favicons/codehawks.ico" alt="CodeHawks" class="platform-logo"/> CodeHawks
+### <img src="favicons/codehawks.ico" alt="CodeHawks" style="width:16px;height:16px"/> CodeHawks
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
