@@ -11,7 +11,8 @@ This portfolio showcases the audit work of **0xvangrim**, including public conte
 
 **0xvangrim** is a security researcher participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), while also conducting private audits under the **Midgar** banner.
 
-- X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)  
+- X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)
+- Telegram (0xvangrim): [@0xvangrim](https://t.me/vangrim1)
 
 Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
