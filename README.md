@@ -20,11 +20,11 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
 ## 📊 Audit Overview
 
-**Total audits**: 24  
-**Severities**: 14 Critical • 30+ High • 60+ Medium • 50+ Low/QA  
-**Best placement**: 1st place • **Top-10 finishes**: 5 (shown in highlights)  
-**Platforms**: Code4rena • Sherlock • Cantina • CodeHawks  
-**Verticals**: DEX • Perpetuals • Stablecoin • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino
+**Total audits**: 26  
+**Severities**: 14 Critical • 32+ High • 61+ Medium • 51+ Low/QA  
+**Best placement**: 1st place • **Top-10 finishes**: 7 (shown in highlights)  
+**Platforms**: Code4rena • Sherlock • Cantina • CodeHawks • HackenProof  
+**Verticals**: DEX • Perpetuals • Stablecoin • Vault • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino • Blockchain
 
 ---
 
@@ -34,6 +34,8 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 |---------|----------|------|-------|--------|
 | RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
 | Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
+| Somnia | <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof | 3 | Blockchain | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
+| Morpho Vault V2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 4/386 | Vault | [Report](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview) |
 | Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
 | Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
 | Basin | <img src="favicons/code4rena.png" alt="C4"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
@@ -68,6 +70,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
 | Pike Finance | Lending / Stablecoin | — | 1 | — | [Report](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview/leaderboard) |
+| Morpho Vault V2 | Vault | — | 1 | — | [Report](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview) |
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
 
@@ -79,6 +82,12 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Sparkn | Marketplace | 1 | 1 | 2 | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
 | Beedle | Lending | 5 | — | 1 | [Report](https://codehawks.cyfrin.io/c/2023-07-beedle) |
 | Escrow Contract | Escrow | — | 1 | — | [Report](https://codehawks.cyfrin.io/c/2023-07-escrow/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
+
+### <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof
+
+| Contest | About | High | Medium | Low/QA | Security Report |
+|---------|-------|------|--------|--------|-----------------|
+| Somnia | Blockchain | 2 | — | 1 | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
 
 ---
 
