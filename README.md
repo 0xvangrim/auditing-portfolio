@@ -20,9 +20,9 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
 ## 📊 Audit Overview
 
-**Total audits**: 26  
-**Severities**: 14 Critical • 32+ High • 61+ Medium • 51+ Low/QA  
-**Best placement**: 1st place • **Top-10 finishes**: 7 (shown in highlights)  
+**Total audits**: 31  
+**Severities**: 14 Critical • 33+ High • 67+ Medium • 51+ Low/QA  
+**Best placement**: 1st place • **Top-10 finishes**: 8 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks • HackenProof  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino • Blockchain
 
@@ -34,7 +34,8 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 |---------|----------|------|-------|--------|
 | RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
 | Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
-| Somnia | <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof | 3 | Blockchain | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
+| Somnia | <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof | 3/47 | Blockchain | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
+| Inverse Finance - Junior Tranche | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 3 | Lending | [Report](https://audits.sherlock.xyz/contests/1202) |
 | Morpho Vault V2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 4/386 | Vault | [Report](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview) |
 | Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
 | Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
@@ -62,8 +63,13 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 |---------|-------|------|--------|--------|-----------------|
 | RealWagmi | DEX | 3 | — | — | [Report](https://audits.sherlock.xyz/contests/88/report) |
 | Hubble Exchange | Perpetuals | — | 3 | — | [Report](https://audits.sherlock.xyz/contests/72/report) |
+| Malda | DeFi | — | 3 | — | [Report](https://audits.sherlock.xyz/contests/1029) |
 | Allo V2 | Grants | — | 2 | — | [Report](https://audits.sherlock.xyz/contests/109/report) |
+| stNXM by EaseDeFi | DeFi | 1 | — | — | [Report](https://audits.sherlock.xyz/contests/1203) |
 | Burve | AMM | 1 | — | — | [Report](https://audits.sherlock.xyz/contests/858/report) |
+| Inverse Finance - Junior Tranche | Lending | — | 1 | — | [Report](https://audits.sherlock.xyz/contests/1202) |
+| Notional Exponent | DeFi | — | 1 | — | [Report](https://audits.sherlock.xyz/contests/1001) |
+| Dango | DEX | — | 1 | — | [Report](https://audits.sherlock.xyz/contests/1066) |
 
 ### <img src="favicons/cantina.ico" alt="Cantina"/> Cantina
 
