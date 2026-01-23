@@ -45,7 +45,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
 ## 🏆 Competitive Platforms
 
-### <img src="favicons/code4rena.png" alt="Code4rena"/> Code4rena
+### Code4rena
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -57,7 +57,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | 2023-08-chainlink-staking-v02 | Staking | — | 1 | — | [Report](https://code4rena.com/audits/2023-08-chainlink-staking-v02) |
 | 2023-07-basin | DEX | — | 1 | — | [Report](https://code4rena.com/reports/2023-07-basin) |
 
-### <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock
+### Sherlock
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -71,7 +71,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Notional Exponent | DeFi | — | 1 | — | [Report](https://audits.sherlock.xyz/contests/1001) |
 | Dango | DEX | — | 1 | — | [Report](https://audits.sherlock.xyz/contests/1066) |
 
-### <img src="favicons/cantina.ico" alt="Cantina"/> Cantina
+### Cantina
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -80,7 +80,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Gauntlet / aera-v3 | Vault Infra | 1 | 1 | — | [Report](https://cantina.xyz/code/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Aquarius | DeFi | — | 1 | — | [Report](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/readme.md) |
 
-### <img src="favicons/codehawks.ico" alt="CodeHawks"/> CodeHawks
+### CodeHawks
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
@@ -89,7 +89,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | Beedle | Lending | 5 | — | 1 | [Report](https://codehawks.cyfrin.io/c/2023-07-beedle) |
 | Escrow Contract | Escrow | — | 1 | — | [Report](https://codehawks.cyfrin.io/c/2023-07-escrow/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
 
-### <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof
+### HackenProof
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
