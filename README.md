@@ -45,7 +45,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [reque
 | RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
 | Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Somnia | <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof | 3/47 | Blockchain | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
-| Inverse Finance - Junior Tranche | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 3/ | Lending | [Report](https://audits.sherlock.xyz/contests/1202) |
+| Inverse Finance - Junior Tranche | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 3/525 | Lending | [Report](https://audits.sherlock.xyz/contests/1202) |
 | Morpho Vault V2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 4/386 | Vault | [Report](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview) |
 | Brix Money | <img src="favicons/code4rena.png" alt="C4"/> Code4rena | 5/752 | Stablecoin | [Report](https://code4rena.com/audits/2025-11-brix-money) |
 | Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
