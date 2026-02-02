@@ -9,7 +9,7 @@ This portfolio showcases the audit work of **0xvangrim**, including public conte
 
 ## 🧑‍💻 About
 
-**0xvangrim** is a blockchain security researcher and auditor participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz). Currently leading **[Midgar](https://www.midgaraudits.xyz/)**, a security audit firm providing comprehensive smart contract audits across multiple chains including Ethereum, Arbitrum, Base, Polygon, and more.
+**0xvangrim** is a blockchain security researcher and auditor participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz). Currently leading **[Midgar](https://www.midgaraudits.xyz/)**, a security audit firm providing comprehensive smart contract audits.
 
 - X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)
 - Telegram (0xvangrim): [@0xvangrim](https://t.me/vangrim1)
@@ -22,9 +22,9 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [reque
 
 **0xvangrim** has built expertise in blockchain security through both professional experience and formal training:
 
-- **Intern at [Sigma Prime](https://sigmaprime.io/)** (2024) — Worked with one of the leading blockchain security firms, specializing in smart contract audits, zero-knowledge systems, and blockchain infrastructure security assessments.
+- **Intern at [Sigma Prime](https://sigmaprime.io/)** (2024) — Worked with one of the leading blockchain security firms, specializing in smart contract audits and blockchain infrastructure security assessments.
 
-- **Guardian Audits 5-Week Bootcamp** (2023) — Completed intensive training program focused on smart contract security, auditing methodologies, and Web3 security best practices through [Guardian Audits](https://guardianaudits.com/)' educational platform.
+- **Guardian Audits 5-Week Bootcamp** (2023) — Completed intensive training program focused on smart contract security, auditing methodologies, and web3 security best practices through [Guardian Audits](https://guardianaudits.com/)' educational platform.
 
 ---
 
