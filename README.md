@@ -9,20 +9,30 @@ This portfolio showcases the audit work of **0xvangrim**, including public conte
 
 ## 🧑‍💻 About
 
-**0xvangrim** is a security researcher participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz), while also conducting private audits under the **Midgar** banner.
+**0xvangrim** is a blockchain security researcher and auditor participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz). Currently leading **[Midgar](https://www.midgaraudits.xyz/)**, a security audit firm providing comprehensive smart contract audits across multiple chains including Ethereum, Arbitrum, Base, Polygon, and more.
 
 - X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)
 - Telegram (0xvangrim): [@0xvangrim](https://t.me/vangrim1)
 
-Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
+Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [request an audit](https://www.midgaraudits.xyz/).
+
+---
+
+## 🎓 Background
+
+**0xvangrim** has built expertise in blockchain security through both professional experience and formal training:
+
+- **Intern at [Sigma Prime](https://sigmaprime.io/)** (2024) — Worked with one of the leading blockchain security firms, specializing in smart contract audits, zero-knowledge systems, and blockchain infrastructure security assessments.
+
+- **Guardian Audits 5-Week Bootcamp** (2023) — Completed intensive training program focused on smart contract security, auditing methodologies, and Web3 security best practices through [Guardian Audits](https://guardianaudits.com/)' educational platform.
 
 ---
 
 ## 📊 Audit Overview
 
-**Total audits**: 31  
-**Severities**: 14 Critical • 33+ High • 67+ Medium • 51+ Low/QA  
-**Best placement**: 1st place • **Top-10 finishes**: 8 (shown in highlights)  
+**Total audits**: 32  
+**Severities**: 14 Critical • 33+ High • 68+ Medium • 51+ Low/QA  
+**Best placement**: 1st place • **Top-10 finishes**: 9 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks • HackenProof  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino • Blockchain
 
@@ -35,8 +45,9 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 | RealWagmi | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 1/24 | DEX | [Report](https://audits.sherlock.xyz/contests/88/report) |
 | Gauntlet / aera-v3 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 3/623 | Vault Infra | [Report](https://cantina.xyz/competitions/ffe90f03-ffd0-449b-a15f-6e7702323d16) |
 | Somnia | <img src="favicons/hackenproof.png" alt="HackenProof"/> HackenProof | 3/47 | Blockchain | [Report](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=reports) |
-| Inverse Finance - Junior Tranche | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 3 | Lending | [Report](https://audits.sherlock.xyz/contests/1202) |
+| Inverse Finance - Junior Tranche | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 3/ | Lending | [Report](https://audits.sherlock.xyz/contests/1202) |
 | Morpho Vault V2 | <img src="favicons/cantina.ico" alt="Cantina"/> Cantina | 4/386 | Vault | [Report](https://cantina.xyz/code/523e1540-f8c3-45ae-9c5d-b6d35d3a326c/overview) |
+| Brix Money | <img src="favicons/code4rena.png" alt="C4"/> Code4rena | 5/752 | Stablecoin | [Report](https://code4rena.com/audits/2025-11-brix-money) |
 | Sparkn | <img src="favicons/codehawks.ico" alt="CodeHawks"/> CodeHawks | 7/202 | Marketplace | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn) |
 | Hubble Exchange | <img src="favicons/sherlock.ico" alt="Sherlock"/> Sherlock | 8/30 | Perpetual Futures | [Report](https://audits.sherlock.xyz/contests/72/report) |
 | Basin | <img src="favicons/code4rena.png" alt="C4"/> Code4rena | 9/73 | DEX | [Report](https://code4rena.com/reports/2023-07-basin) |
@@ -49,6 +60,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1).
 
 | Contest | About | High | Medium | Low/QA | Security Report |
 |---------|-------|------|--------|--------|-----------------|
+| 2025-11-brix-money | Stablecoin | — | 1 | — | [Report](https://code4rena.com/audits/2025-11-brix-money) |
 | 2025-04-kinetiq | DeFi | 1 | 1 | — | [Report](https://code4rena.com/reports/2025-04-kinetiq) |
 | 2025-01-next-generation | ERC20/Forwarder | — | 1 | — | [Report](https://code4rena.com/reports/2025-01-next-generation) |
 | 2023-11-canto (ASD & 1155 Bonding Curves) | Bonding curves | — | 1 | — | [Report](https://code4rena.com/reports/2023-11-canto) |
