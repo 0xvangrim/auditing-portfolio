@@ -9,18 +9,20 @@ This portfolio showcases the audit work of **0xvangrim**, including public conte
 
 ## 🧑‍💻 About
 
-**0xvangrim** is a blockchain security researcher and auditor participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz). Currently leading **[Midgar](https://www.midgaraudits.xyz/)**, a security audit firm providing comprehensive smart contract audits.
+**0xvangrim** is a blockchain security researcher and auditor participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz). Currently leading **[Aetherion Labs](https://aetherionlabs.xyz)**, a blockchain and Web3 security research practice. Background includes 30+ engagements across protocols holding on the order of $10B+ in TVL.
 
 - X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)
 - Telegram (0xvangrim): [@0xvangrim](https://t.me/vangrim1)
 
-Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [request an audit](https://www.midgaraudits.xyz/).
+Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [request an audit](https://aetherionlabs.xyz).
 
 ---
 
 ## 🎓 Background
 
 **0xvangrim** has built expertise in blockchain security through both professional experience and formal training:
+
+- **Lead at [Midgar](https://www.midgaraudits.xyz/)** — Founded and led the firm. Public contests and private audits through Somnia sat under Midgar, including 14 Critical and 30+ High findings.
 
 - **Intern at [Sigma Prime](https://sigmaprime.io/)** (2024) — Worked with one of the leading blockchain security firms, specializing in smart contract audits and blockchain infrastructure security assessments.
 
