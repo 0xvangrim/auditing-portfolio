@@ -11,7 +11,6 @@ This portfolio showcases the audit work of **0xvangrim**, including public conte
 
 **0xvangrim** is a blockchain security researcher and auditor participating in contests on platforms like [Code4rena](https://code4rena.com), [Sherlock](https://sherlock.xyz), and [Cantina](https://cantina.xyz). Currently leading **[Aetherion Labs](https://aetherionlabs.xyz)**, a blockchain and Web3 security research practice. Background includes 30+ engagements across protocols holding on the order of $10B+ in TVL.
 
-- X (0xvangrim): [@0xvangrim](https://x.com/0xvangrim_)
 - Telegram (0xvangrim): [@0xvangrim](https://t.me/vangrim1)
 
 Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [request an audit](https://aetherionlabs.xyz).
