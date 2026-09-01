@@ -116,8 +116,8 @@ Low/QA counts include Informational findings.
 
 | Protocol | Description | Critical | High | Medium | Low/QA | Report |
 |----------|-------------|----------|------|--------|--------|--------|
-| Confidential | Perpetual Futures | 1 | 8 | 26 | 44 | — |
-| Confidential | Prediction Market | 3 | 6 | 14 | 22 | — |
+| Somnia | Perpetual Futures | 1 | 8 | 26 | 44 | — |
+| Somnia | Prediction Market | 3 | 6 | 14 | 22 | — |
 | 1DFX | Perpetual Futures | 1 | 4 | 9 | 10 | [Report](https://github.com/midgar-audits/public-audits/tree/main/audit-reports/1dfx) |
 | 1DFX - Price Store | Perpetual Futures | — | 2 | 5 | 4 | [Report](https://github.com/midgar-audits/public-audits/tree/main/audit-reports/1dfx) |
 | DeGaming | Casino | 5 | 1 | 11 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming_Security_Audit_v.1.0.pdf) |
