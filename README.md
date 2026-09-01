@@ -32,7 +32,7 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [reque
 ## 📊 Audit Overview
 
 **Total audits**: 34  
-**Severities**: 18 Critical • 49+ High • 108+ Medium • 117+ Low/QA  
+**Severities**: 18 Critical • 49+ High • 108+ Medium • 117+ Low/QA (Low/QA includes Informational)  
 **Best placement**: 1st place • **Top-10 finishes**: 9 (shown in highlights)  
 **Platforms**: Code4rena • Sherlock • Cantina • CodeHawks • HackenProof  
 **Verticals**: DEX • Perpetuals • Stablecoin • Vault • Vault Infra • Marketplace • Options AMM • Staking • Grants • Bonding Curves • Lending • Liquidity • Escrow • Casino • Blockchain • Prediction Market
@@ -112,18 +112,16 @@ Interested in working together? DM [@0xvangrim](https://t.me/vangrim1) or [reque
 
 ## 🔐 Private Audits
 
-Low/QA counts include Informational findings.
-
-| Protocol | Description | Critical | High | Medium | Low/QA | Report |
-|----------|-------------|----------|------|--------|--------|--------|
-| Somnia | Perpetual Futures | 1 | 8 | 26 | 44 | — |
-| Somnia | Prediction Market | 3 | 6 | 14 | 22 | — |
-| 1DFX | Perpetual Futures | 1 | 4 | 9 | 10 | [Report](https://github.com/midgar-audits/public-audits/tree/main/audit-reports/1dfx) |
-| 1DFX - Price Store | Perpetual Futures | — | 2 | 5 | 4 | [Report](https://github.com/midgar-audits/public-audits/tree/main/audit-reports/1dfx) |
-| DeGaming | Casino | 5 | 1 | 11 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming_Security_Audit_v.1.0.pdf) |
-| DeGaming 2nd Audit | Casino | 5 | 1 | 2 | 2 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming%20Platform%202nd%20Security%20Audit%20v.1.0.pdf) |
-| DeGaming Bankroll | Vault | 2 | 6 | 6 | 6 | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Bankroll%20Contracts%20Security%20Audit%20v.1.1.pdf) |
-| Parifi (Midgar x Guardian) | Perpetual | 1 | 5 | 11 | 18 | [Report](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf) |
+| Protocol | Description | Report |
+|----------|-------------|--------|
+| Somnia | Perpetual Futures | — |
+| Somnia | Prediction Market | — |
+| 1DFX | Perpetual Futures | [Report](https://github.com/midgar-audits/public-audits/tree/main/audit-reports/1dfx) |
+| 1DFX - Price Store | Perpetual Futures | [Report](https://github.com/midgar-audits/public-audits/tree/main/audit-reports/1dfx) |
+| DeGaming | Casino | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming_Security_Audit_v.1.0.pdf) |
+| DeGaming 2nd Audit | Casino | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Degaming%20Platform%202nd%20Security%20Audit%20v.1.0.pdf) |
+| DeGaming Bankroll | Vault | [Report](https://github.com/midgar-audits/public-audits/blob/main/audit-reports/degaming/Bankroll%20Contracts%20Security%20Audit%20v.1.1.pdf) |
+| Parifi (Midgar x Guardian) | Perpetual | [Report](https://github.com/GuardianAudits/Audits/blob/main/PariFi/2024-01-24_PariFi.pdf) |
 
 ---
 
